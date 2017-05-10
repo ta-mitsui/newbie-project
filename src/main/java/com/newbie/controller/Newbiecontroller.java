@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.newbie.service.impl.NewbieService2Impl;
 import com.newbie.service.impl.NewbieServiceImpl;
 
+// test
+
 @RestController
 public class Newbiecontroller {
 
